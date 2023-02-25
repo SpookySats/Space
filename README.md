@@ -1,7 +1,7 @@
 
 # [Spooky Space](https://spookyspace.site/)
 
-# SpookySpace NFT dApp
+# Spooky Space
 Welcome to the Spooky Space! This dApp allows users to buy and own NFTs representing virtual space on a 50x50 grid. Each NFT represents a specific Space on the grid, with a customizable title, image, and link associated with it. Users can buy Space with TFUEL, and can update the information associated with their NFTs at any time, only paying for gas. A free Spooky Collectible can be minted, which unlocks the canvas to purchase a Space.
 
 # How to Buy a Space
@@ -24,8 +24,9 @@ The code is available on GitHub at https://github.com/spookysats/Space. The dApp
 # Contributors
 Thank you to the following people who have contributed to this project:
 
-- Thomas on Theta - https://github.com/thetamillion, https://twitter.com/ThomasOnTheta
-- TenthReality - HUGE thanks to TenthReality for helping me with the last few hurldes. Spooky Space would not be live without his help.
+- TenthReality, HUGE thanks to TenthReality for helping me with the last few hurldes. Spooky Space would not be live without his help.
+- Thomas on Theta https://github.com/thetamillion, https://twitter.com/ThomasOnTheta. Thank to Thomas for providing the source code of thetamillion.com.
+
 
 # License
 This code is licensed under the MIT License. See the LICENSE file for details.
