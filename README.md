@@ -1,7 +1,6 @@
 
 # [Spooky Space](https://spookyspace.site/)
 
-# Spooky Space
 Welcome to the Spooky Space! This dApp allows users to buy and own NFTs representing virtual space on a 50x50 grid. Each NFT represents a specific Space on the grid, with a customizable title, image, and link associated with it. Users can buy Space with TFUEL, and can update the information associated with their NFTs at any time, only paying for gas. A free Spooky Collectible can be minted, which unlocks the canvas to purchase a Space.
 
 # How to Buy a Space
